@@ -1,0 +1,24 @@
+[
+    {
+        "nome": "Hip\u00f3lito",
+        "notas": [
+            9.0,
+            9.0,
+            9.0,
+            9.0
+        ],
+        "media": 9.0,
+        "status": "Aprovado"
+    },
+    {
+        "nome": "Ivan",
+        "notas": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "media": 10.0,
+        "status": "Aprovado"
+    }
+]
