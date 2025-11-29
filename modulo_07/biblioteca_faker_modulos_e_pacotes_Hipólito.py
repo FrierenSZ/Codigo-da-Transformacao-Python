@@ -5,7 +5,7 @@ py -m pip install faker
 
 
 
-from faker import Faker
+from faker import Faker 
 from datetime import datetime
 
 
@@ -27,9 +27,9 @@ for _ in range(5):
     idade = calcular_idade(data_nascimento)
     usuario = {
         'nome': nome,
-        'email': email,
+        'idade': idade,'email': email,
         'data_nascimento': data_nascimento.strftime('%d/%m/%Y'),
-        'idade': idade
+        
     }
     usuarios.append(usuario)
 

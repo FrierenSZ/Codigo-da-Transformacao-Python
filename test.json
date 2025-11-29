@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "João Pereira",
+    "idade": 28,
+    "cidade": "RJ",
+    "telefone": "21987654321",
+    "email": "joao.pereira@email.com",
+    "cpf": "12345678901",
+    "endereco": "Avenida Atlântica, 100"
+  },
+  {
+    "nome": "Maria Souza",
+    "idade": 45,
+    "cidade": "SP",
+    "telefone": "11965432109",
+    "email": "maria.souza@email.com",
+    "cpf": "98765432109",
+    "endereco": "Rua Augusta, 500"
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 55,
+    "cidade": "BA",
+    "telefone": "71990901234",
+    "email": "carlos.oliveira@email.com",
+    "cpf": "45678901234",
+    "endereco": "Largo do Pelourinho, s/n"
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 22,
+    "cidade": "PR",
+    "telefone": "41912345678",
+    "email": "ana.costa@email.com",
+    "cpf": "78901234567",
+    "endereco": ""
+  }
+]

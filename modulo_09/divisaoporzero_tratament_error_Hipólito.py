@@ -1,4 +1,4 @@
-
+# Funções de Operações
 def soma(a, b):
     return a + b
 
@@ -8,8 +8,10 @@ def subtracao(a, b):
 def multiplicacao(a, b):
     return a * b
 
+
 def divisao(a, b):
     return a / b
+
 
 def menu_calculadora():
     executando = True
@@ -54,6 +56,7 @@ def menu_calculadora():
                 print(f"\n✅ Resultado da Multiplicação: {resultado}")
             except ValueError:
                 print("\n❌ Entrada inválida. Por favor, digite números válidos.")
+            
 
         elif escolha == '4': 
             try:
